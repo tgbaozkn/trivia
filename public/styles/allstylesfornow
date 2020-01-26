@@ -1,0 +1,196 @@
+.container {
+  text-align: center;
+  margin: 3% auto;
+}
+
+.btn {
+  background-color: #000 !important;
+  border-radius: 4% !important;
+  color: #fff !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+  font-size: 2.5rem !important;
+  height: 6rem !important;
+  margin-top: 8% !important;
+  width: 50% !important;
+}
+
+.gameOver {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 4.75rem;
+}
+
+.playAgain {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 2.5rem;
+}
+
+.dropdownArea {
+  position: relative;
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 10px;
+}
+
+.dropdown {
+  position: relative;
+  width: 40%;
+  margin-bottom: 10px;
+}
+
+.startText {
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 2.25rem;
+  font-weight: bold;
+  background: linear-gradient(
+    -45deg,
+    rgb(255, 170, 170),
+    rgb(255, 231, 186),
+    rgb(255, 180, 180),
+    rgb(255, 231, 186)
+  );
+  background-size: 400% 400%;
+  animation: gradient 2.5s ease infinite;
+  border-radius: 5px;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+#demo-customized-select-native {
+  text-align: center;
+  left: -60px;
+}
+.text {
+  margin-left: 500px;
+  text-align: center;
+  left: 500px;
+  text-size: 5px;
+}
+
+.container {
+  text-align: center;
+  margin-top: 1.5%;
+}
+
+.nextBtn {
+  position: relative;
+  left: 50%;
+  background-color: rgb(60, 158, 117);
+  color: #fff;
+}
+
+.correctAnswerContent {
+  font-family: "Gelasio", serif;
+  font-size: 2rem;
+  margin-top: -7%;
+  margin-bottom: 6%;
+  text-align: center;
+}
+
+.container {
+  height: 100% !important;
+  margin-top: 1% !important;
+  text-align: center !important;
+}
+
+.row {
+  background-color: #deff8b !important;
+  height: 4rem !important;
+}
+
+.col {
+  font-family: "Roboto Condensed", sans-serif !important;
+  font-size: 1.15rem !important;
+}
+
+.question {
+  font-family: "Gelasio", serif !important;
+  font-size: 2.25rem !important;
+  padding-top: 20% !important;
+
+  font-weight: bold;
+  text-shadow: 0.2rem grey;
+}
+
+.btnFirst {
+  margin-top: 1% !important;
+}
+
+.btn {
+  margin-top: 2.5% !important;
+}
+
+.btn,
+.btnFirst {
+  background-color: #860a0a !important;
+  border-radius: 5% !important;
+  color: #ffffff !important;
+  font-family: "Roboto Condensed", sans-serif !important;
+  font-size: 1rem !important;
+  font-weight: bold !important;
+  height: 3.5rem !important;
+  padding-top: 1.35% !important;
+  text-align: center !important;
+  width: 40% !important;
+}
+
+.btn:hover,
+.btnFirst:hover {
+  background-color: #ff8364 !important;
+}
+
+.timetime {
+  margin-top: 200px;
+  margin-left: -20px;
+}
+
+.container {
+  text-align: center;
+  margin: 3% auto;
+}
+
+.btn {
+  background-color: #000 !important;
+  border-radius: 4% !important;
+  color: #fff !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+  font-size: 2.5rem !important;
+  height: 6rem !important;
+  margin-top: 8% !important;
+  width: 50% !important;
+}
+
+.container {
+  text-align: center;
+  margin: 2% auto;
+}
+
+.btn {
+  background-color: #000 !important;
+  border-radius: 4% !important;
+  color: #fff !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+  font-size: 2.5rem !important;
+  height: 6rem !important;
+  margin-top: 5% !important;
+  width: 50% !important;
+}
+
+.gameOver {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 450%;
+}
+
+.playAgain {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 2rem;
+}
