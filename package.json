@@ -1,0 +1,40 @@
+{
+  "name": "my-trivia-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.8.3",
+    "@material-ui/icons": "4.5.1",
+    "bootstrap": "4.4.1",
+    "pretty-ms": "5.1.0",
+    "react": "16.8.6",
+    "react-async": "10.0.0",
+    "react-bootstrap": "1.0.0-beta.16",
+    "react-countdown-circle-timer": "1.0.6",
+    "react-dom": "16.8.6",
+    "react-lottie": "1.2.3",
+    "react-scripts": "3.2.0",
+    "react-timeout": "1.2.0",
+    "require-main-filename": "2.0.0",
+    "timeout": "0.2.1",
+    "timer": "1.0.1",
+    "underscore": "1.9.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
